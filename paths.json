@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-xwalk-bp/:/",
-    "/content/aem-xwalk-bp/configuration:/.helix/config.json",
-    "/content/aem-xwalk-bp/metadata:/metadata.json"
+    "/content/test-repo/:/",
+    "/content/test-repo/configuration:/.helix/config.json",
+    "/content/test-repo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-xwalk-bp/"
+    "/content/test-repo/"
   ]
 }
